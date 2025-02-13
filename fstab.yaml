@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j
+  /:
+    url: "https://author-p136404-e1415991.adobeaemcloud.com/bin/franklin.delivery/maheshkumar6615/eds-universal-editor/main"
+    type: "markup"
+    suffix: ".html"
